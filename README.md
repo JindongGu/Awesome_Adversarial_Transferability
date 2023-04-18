@@ -12,8 +12,8 @@
 #### 2022
 - Improving the Transferability of Targeted Adversarial Examples throughObject-Based Diverse Input.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Byun_Improving_the_Transferability_of_Targeted_Adversarial_Examples_Through_Object-Based_Diverse_CVPR_2022_paper.pdf)
-  [[code]](https://github.com/dreamflake/ODI)
-  \newline Junyoung Byun, Seungju Cho, Myung-Joon Kwon, Hee-Seon Kim, Changick Kim. CVPR, 2022. 
+  [[code]](https://github.com/dreamflake/ODI)<br />
+  Junyoung Byun, Seungju Cho, Myung-Joon Kwon, Hee-Seon Kim, Changick Kim. CVPR, 2022. 
 
 - Investigating Top-k White-Box and Transferable Black-box Attack.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Investigating_Top-k_White-Box_and_Transferable_Black-Box_Attack_CVPR_2022_paper.pdf)
