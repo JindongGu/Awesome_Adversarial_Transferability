@@ -26,6 +26,11 @@
   Yifeng Xiong, Jiadong Lin, Min Zhang, John E. Hopcroft, Kun He. **CVPR**, 2022. 
 
 #### 2021
+- Admix: Enhancing the Transferability of Adversarial Attacks.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Admix_Enhancing_the_Transferability_of_Adversarial_Attacks_ICCV_2021_paper.pdf)
+  [[code]](https://github.com/JHL-HUST/Admix)<br />
+  Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. **ICCV**, 2021. 
+  
 - Adversarial examples on segmentation models can be easy to transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   [[code]](https://arxiv.org/pdf/2111.11368.pdf)
