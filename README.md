@@ -15,6 +15,11 @@
   [[code]](https://github.com/dreamflake/ODI)
   - Junyoung Byun, Seungju Cho, Myung-Joon Kwon, Hee-Seon Kim, Changick Kim. CVPR, 2022. 
 
+- Investigating Top-k White-Box and Transferable Black-box Attack.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Investigating_Top-k_White-Box_and_Transferable_Black-Box_Attack_CVPR_2022_paper.pdf)
+  [[code]](https://github.com/ChaoningZhang/Top-k-Transferable-Attack)
+  - Chaoning Zhang, Philipp Benz, Adil Karjauv, Jae Won Cho, Kang Zhang, In So Kweon. CVPR, 2022. 
+
 #### 2021
 - Adversarial examples on segmentation models can be easy to transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
