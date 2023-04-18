@@ -30,7 +30,7 @@
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
   
  - Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Improving_Adversarial_Transferability_via_Neuron_Attribution-Based_Attacks_CVPR_2022_paper.pdf)<br />
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Improving_Adversarial_Transferability_via_Neuron_Attribution-Based_Attacks_CVPR_2022_paper.pdf)
   [[code]](https://github.com/jpzhang1810/NAA)<br />
   Jianping Zhang, Weibin Wu, Jen-tse Huang, Yizhan Huang, Wenxuan Wang, Yuxin Su, Michael R. Lyu. **CVPR**, 2022. 
   
@@ -45,11 +45,22 @@
   [[code]](https://github.com/JHL-HUST/Admix)<br />
   Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. **ICCV**, 2021. 
   
+- On Generating Transferable Targeted Perturbations.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Naseer_On_Generating_Transferable_Targeted_Perturbations_ICCV_2021_paper.pdf)
+  [[code]](https://github.com/Muzammal-Naseer/TTP)<br />
+  Muzammal Naseer, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Fatih Porikli. **ICCV**, 2021. 
+
+#### 2020
 - Adversarial examples on segmentation models can be easy to transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   [[code]](https://arxiv.org/pdf/2111.11368.pdf)
   - Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020. 
 
+#### 2018
+- Task-generalizable Adversarial Attack based on Perceptual Metric.
+  [[pdf]](https://arxiv.org/pdf/1811.09020.pdf)<br />
+  Muzammal Naseer, Salman H. Khan, Shafin Rahman, Fatih Porikli, arxiv, 2018
+  
 #### 2015
 - Delving into Transferable Adversarial Examples and Black-box Attacks.
   [[pdf]](https://openreview.net/pdf?id=Sys6GJqxl)
