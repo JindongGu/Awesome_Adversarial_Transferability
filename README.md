@@ -24,6 +24,10 @@
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Xiong_Stochastic_Variance_Reduced_Ensemble_Adversarial_Attack_for_Boosting_the_Adversarial_CVPR_2022_paper.pdf)
   [[code]](https://github.com/JHL-HUST/SVRE)<br />
   Yifeng Xiong, Jiadong Lin, Min Zhang, John E. Hopcroft, Kun He. **CVPR**, 2022. 
+  
+ - Cross-Modal Transferable Adversarial Attacks from Images to Videos.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Cross-Modal_Transferable_Adversarial_Attacks_From_Images_to_Videos_CVPR_2022_paper.pdf)<br />
+  Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
 
 #### 2021
 - Admix: Enhancing the Transferability of Adversarial Attacks.
