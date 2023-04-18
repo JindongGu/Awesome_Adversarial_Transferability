@@ -29,6 +29,11 @@
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Cross-Modal_Transferable_Adversarial_Attacks_From_Images_to_Videos_CVPR_2022_paper.pdf)<br />
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
   
+ - Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Improving_Adversarial_Transferability_via_Neuron_Attribution-Based_Attacks_CVPR_2022_paper.pdf)<br />
+  [[code]](https://github.com/jpzhang1810/NAA)<br />
+  Jianping Zhang, Weibin Wu, Jen-tse Huang, Yizhan Huang, Wenxuan Wang, Yuxin Su, Michael R. Lyu. **CVPR**, 2022. 
+  
   - Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
   [[pdf]](https://arxiv.org/pdf/2110.09075.pdf)
   [[code]](https://github.com/zhipeng-wei/TT)<br />
