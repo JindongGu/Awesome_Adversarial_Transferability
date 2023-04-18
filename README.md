@@ -28,6 +28,11 @@
  - Cross-Modal Transferable Adversarial Attacks from Images to Videos.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Cross-Modal_Transferable_Adversarial_Attacks_From_Images_to_Videos_CVPR_2022_paper.pdf)<br />
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
+  
+  - Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
+  [[pdf]](https://arxiv.org/pdf/2110.09075.pdf)
+  [[code]](https://github.com/zhipeng-wei/TT)<br />
+  Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **AAAI**, 2022. 
 
 #### 2021
 - Admix: Enhancing the Transferability of Adversarial Attacks.
