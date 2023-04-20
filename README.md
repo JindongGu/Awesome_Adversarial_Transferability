@@ -6,7 +6,7 @@
 ### Reference
 - This repo lists relevant papers summarized in our survey paper.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
-  - Jindong Gu, Philip Torr
+  - Jindong Gu, Philip Torr (To edit)
 
 ### Papers
 #### 2022
