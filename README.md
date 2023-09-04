@@ -9,7 +9,7 @@
   - Jindong Gu, Philip Torr (To edit)
  
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)
-<font color="#0000FF">clip</font>
+<p style="color: rgb(135,206,235)">clip</p>
 
 ### Papers
 #### 2022
