@@ -1,6 +1,5 @@
-<!DOCTYPE html>
-<html lang="en">
-  
+<link rel="stylesheet" type="text/css" href="styles.css">
+
 ### What is Adversarial Transferability?
 
 ### Why Adversarial Transferability?
@@ -12,7 +11,7 @@
   - Jindong Gu, Philip Torr (To edit)
  
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)
-<p style="background-color: yellow; color: blue;">This is some text with a yellow background and blue text color.</p>
+<span class="custom-tag">clip</span>
 
 
 ### Papers
