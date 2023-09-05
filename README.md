@@ -1,4 +1,3 @@
-<link rel="stylesheet" type="text/css" href="styles.css">
 
 ### What is Adversarial Transferability?
 
@@ -11,8 +10,12 @@
   - Jindong Gu, Philip Torr (To edit)
  
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)
+```html
+<link rel="stylesheet" type="text/css" href="styles.css
+<div>
 <span class="custom-tag">clip</span>
-
+</div>
+\```
 
 ### Papers
 #### 2022
