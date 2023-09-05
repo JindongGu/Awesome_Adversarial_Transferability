@@ -11,12 +11,6 @@
  
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)
 
-\```html
-<div>
-    This is a div element.
-</div>
-\```
-
 ### Papers
 #### 2022
 - Improving the Transferability of Targeted Adversarial Examples throughObject-Based Diverse Input.
