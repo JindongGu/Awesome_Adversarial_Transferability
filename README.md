@@ -9,7 +9,7 @@
   - Jindong Gu, Philip Torr (To edit)
  
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)
-<p style="background-color: yellow; color: blue;">This is some text with a yellow background and blue text color.</p>
+<!--<p style="background-color: yellow; color: blue;">This is some text with a yellow background and blue text color.</p>-->
 
 
 ### Papers
