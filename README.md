@@ -28,22 +28,22 @@
   [[code]](https://github.com/JHL-HUST/SVRE)<br />
   Yifeng Xiong, Jiadong Lin, Min Zhang, John E. Hopcroft, Kun He. **CVPR**, 2022. 
   
- - Cross-Modal Transferable Adversarial Attacks from Images to Videos.
+ - loss Cross-Modal Transferable Adversarial Attacks from Images to Videos.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Cross-Modal_Transferable_Adversarial_Attacks_From_Images_to_Videos_CVPR_2022_paper.pdf)<br />
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
   
- - Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
+ - loss Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Improving_Adversarial_Transferability_via_Neuron_Attribution-Based_Attacks_CVPR_2022_paper.pdf)
   [[code]](https://github.com/jpzhang1810/NAA)<br />
   Jianping Zhang, Weibin Wu, Jen-tse Huang, Yizhan Huang, Wenxuan Wang, Yuxin Su, Michael R. Lyu. **CVPR**, 2022. 
   
-  - Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
+  - data Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
   [[pdf]](https://arxiv.org/pdf/2110.09075.pdf)
   [[code]](https://github.com/zhipeng-wei/TT)<br />
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **AAAI**, 2022. 
 
 #### 2021
-- ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square) Admix: Enhancing the Transferability of Adversarial Attacks.
+- ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square) data Admix: Enhancing the Transferability of Adversarial Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Admix_Enhancing_the_Transferability_of_Adversarial_Attacks_ICCV_2021_paper.pdf)
   [[code]](https://github.com/JHL-HUST/Admix)<br />
   Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. **ICCV**, 2021. 
