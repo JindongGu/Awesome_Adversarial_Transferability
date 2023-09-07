@@ -48,12 +48,12 @@
   [[code]](https://github.com/JHL-HUST/Admix)<br />
   Xiaosen Wang, Xuanran He, Jingdong Wang, Kun He. **ICCV**, 2021. 
   
-- On Generating Transferable Targeted Perturbations.
+- generative model On Generating Transferable Targeted Perturbations.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Naseer_On_Generating_Transferable_Targeted_Perturbations_ICCV_2021_paper.pdf)
   [[code]](https://github.com/Muzammal-Naseer/TTP)<br />
   Muzammal Naseer, Salman Khan, Munawar Hayat, Fahad Shahbaz Khan, Fatih Porikli. **ICCV**, 2021. 
   
-- Batch Normalization Increases Adversarial Vulnerability and Decreases Adversarial Transferability:  <br />A Non-Robust Feature Perspective.
+- model Batch Normalization Increases Adversarial Vulnerability and Decreases Adversarial Transferability:  <br />A Non-Robust Feature Perspective.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Benz_Batch_Normalization_Increases_Adversarial_Vulnerability_and_Decreases_Adversarial_Transferability_A_ICCV_2021_paper.pdf) <br />
   Philipp Benz, Chaoning Zhang, In So Kweon. **ICCV**, 2021. 
 
