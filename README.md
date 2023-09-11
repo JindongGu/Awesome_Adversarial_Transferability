@@ -58,18 +58,18 @@
   Philipp Benz, Chaoning Zhang, In So Kweon. **ICCV**, 2021. 
 
 #### 2020
-- Adversarial examples on segmentation models can be easy to transfer.
+- data Adversarial examples on segmentation models can be easy to transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   [[code]](https://arxiv.org/pdf/2111.11368.pdf)
   - Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020. 
 
 #### 2018
-- Task-generalizable Adversarial Attack based on Perceptual Metric.
+- loss Task-generalizable Adversarial Attack based on Perceptual Metric.
   [[pdf]](https://arxiv.org/pdf/1811.09020.pdf)<br />
   Muzammal Naseer, Salman H. Khan, Shafin Rahman, Fatih Porikli, arxiv, 2018
   
 #### 2015
-- Delving into Transferable Adversarial Examples and Black-box Attacks.
+- model Delving into Transferable Adversarial Examples and Black-box Attacks.
   [[pdf]](https://openreview.net/pdf?id=Sys6GJqxl)
   [[code]](https://github.com/sunblaze-ucb/transferability-advdnn-pub)<br />
   Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song, **ICLR**, 2015
