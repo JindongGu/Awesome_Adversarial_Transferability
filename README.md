@@ -9,7 +9,7 @@
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   - Jindong Gu, Philip Torr (To edit)
  
-* Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square) 
+* Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)  ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
 ### Papers
 #### 2022
 - data Improving the Transferability of Targeted Adversarial Examples through Object-Based Diverse Input.
