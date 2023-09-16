@@ -9,7 +9,7 @@
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   - Jindong Gu, Philip Torr (To edit)
  
-* Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square) ![](./tags/dataxiao.png) 
+* Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square) ![](./tags/data.png) 
 
 ### Papers
 #### 2022
