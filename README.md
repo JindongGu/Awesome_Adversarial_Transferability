@@ -59,7 +59,7 @@
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/19936/19695)<br />
   Shuman Fang, Jie Li, Xianming Lin, Rongrong Ji. **AAAI**, 2022.
 
-- ![](https://img.shields.io/badge/loss-538C51) Adversarially Robust Models may not Transfer Better: Sufficient Conditions for Domain Transferability from the View of Regularization.
+- ![](https://img.shields.io/badge/loss-538C51) Adversarially Robust Models may not Transfer Better:<br />Sufficient Conditions for Domain Transferability from the View of Regularization.
   [[pdf]](https://proceedings.mlr.press/v162/xu22n/xu22n.pdf)<br />
   Xiaojun Xu, Jacky Y Zhang, Evelyn Ma, Hyun Ho Son, Sanmi Koyejo, Bo Li. **ICML**, 2022. 
 
@@ -95,6 +95,10 @@
   [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/30d454f09b771b9f65e3eaf6e00fa7bd-Paper.pdf)
   [[code]](https://github.com/ZhengyuZhao/Targeted-Transfer)<br />
   Zhengyu Zhao, Zhuoran Liu, Martha Larson. **NIPS**, 2021.
+
+- ![](https://img.shields.io/badge/loss-538C51) Learning Transferable Adversarial Perturbations.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/7486cef2522ee03547cfb970a404a874-Paper.pdf)<br />
+  Krishna kanth Nakka, Mathieu Salzmann. **NIPS**, 2021.
 
 #### 2020
 - ![](https://img.shields.io/badge/data-4472C4) Adversarial Examples on Segmentation Models Can be Easy to Transfer.
@@ -133,6 +137,11 @@
   [[code]](https://github.com/JHL-HUST/SI-NI-FGSM)<br />
   Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. arxiv, 2019.
 
+- ![](https://img.shields.io/badge/loss-538C51) Enhancing Adversarial Example Transferability With an Intermediate Level Attack.
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Huang_Enhancing_Adversarial_Example_Transferability_With_an_Intermediate_Level_Attack_ICCV_2019_paper.pdf)
+  [[code]](https://github.com/CUAI/Intermediate-Level-Attack)<br />
+  Qian Huang, Isay Katsman, Horace He, Zeqi Gu, Serge Belongie, Ser-Nam Lim. **ICCV**, 2019.
+
 #### 2018
 - ![](https://img.shields.io/badge/loss-538C51) Task-generalizable Adversarial Attack based on Perceptual Metric.
   [[pdf]](https://arxiv.org/pdf/1811.09020.pdf)<br />
@@ -142,6 +151,10 @@
   [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf)
   [[code]](https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks)<br />
   Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li. **CVPR**, 2018.
+
+- ![](https://img.shields.io/badge/loss-538C51) Transferable Adversarial Perturbations.
+  [[pdf]](https://openaccess.thecvf.com/content_ECCV_2018/papers/Bruce_Hou_Transferable_Adversarial_Perturbations_ECCV_2018_paper.pdf)<br />
+  Wen Zhou, Xin Hou, Yongjun Chen, Mengyun Tang, Xiangqi Huang, Xiang Gan, Yong Yang. **ECCV**, 2018.
   
 #### 2015
 - ![](https://img.shields.io/badge/model-7030A0) Delving into Transferable Adversarial Examples and Black-box Attacks.
