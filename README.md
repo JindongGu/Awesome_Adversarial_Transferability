@@ -50,6 +50,19 @@
   [[code]](https://github.com/278287847/AI-FGTM)<br />
   Junhua Zou, Yexin Duan, Boyu Li, Wu Zhang, Yu Pan, Zhisong Pan. **AAAI**, 2022.
 
+- ![](https://img.shields.io/badge/optimization-D95E32) Boosting the Transferability of Adversarial Attacks with Reverse Adversarial Perturbation.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2022/file/c0f9419caa85d7062c7e6d621a335726-Paper-Conference.pdf)
+  [[code]](https://github.com/SCLBD/Transfer_attack_RAP)<br />
+  Zeyu Qin, Yanbo Fan, Yi Liu, Li Shen, Yong Zhang, Jue Wang, Baoyuan Wu. **NIPS**, 2022.
+
+- ![](https://img.shields.io/badge/loss-538C51) Learning to Learn Transferable Attack.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/19936/19695)<br />
+  Shuman Fang, Jie Li, Xianming Lin, Rongrong Ji. **AAAI**, 2022.
+
+- ![](https://img.shields.io/badge/loss-538C51) Adversarially Robust Models may not Transfer Better: Sufficient Conditions for Domain Transferability from the View of Regularization.
+  [[pdf]](https://proceedings.mlr.press/v162/xu22n/xu22n.pdf)<br />
+  Xiaojun Xu, Jacky Y Zhang, Evelyn Ma, Hyun Ho Son, Sanmi Koyejo, Bo Li. **ICML**, 2022. 
+
 #### 2021
 - ![](https://img.shields.io/badge/data-4472C4) Admix: Enhancing the Transferability of Adversarial Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Admix_Enhancing_the_Transferability_of_Adversarial_Attacks_ICCV_2021_paper.pdf)
@@ -74,11 +87,20 @@
   [[code]](https://github.com/JHL-HUST/VT)<br />
   Xiaosen Wang, Kun He. **CVPR**, 2021.
 
+- ![](https://img.shields.io/badge/loss-538C51) Improving Transferability of Adversarial Patches on Face Recognition With Generative Models.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Xiao_Improving_Transferability_of_Adversarial_Patches_on_Face_Recognition_With_Generative_CVPR_2021_paper.pdf)<br />
+  Zihao Xiao, Xianfeng Gao, Chilin Fu, Yinpeng Dong, Wei Gao, Xiaolu Zhang, Jun Zhou, Jun Zhu. **CVPR**, 2021.
+
+- ![](https://img.shields.io/badge/loss-538C51) On Success and Simplicity: A Second Look at Transferable Targeted Attacks.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2021/file/30d454f09b771b9f65e3eaf6e00fa7bd-Paper.pdf)
+  [[code]](https://github.com/ZhengyuZhao/Targeted-Transfer)<br />
+  Zhengyu Zhao, Zhuoran Liu, Martha Larson. **NIPS**, 2021.
+
 #### 2020
 - ![](https://img.shields.io/badge/data-4472C4) Adversarial Examples on Segmentation Models Can be Easy to Transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
-  [[code]](https://arxiv.org/pdf/2111.11368.pdf)
-  - Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020.
+  [[code]](https://arxiv.org/pdf/2111.11368.pdf)<br />
+  Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020.
 
 - ![](https://img.shields.io/badge/data-4472C4) Improving the Transferability of Adversarial Examples with Resized-Diverse-Inputs, Diversity-Ensemble and Region Fitting.
   [[pdf]](https://arxiv.org/pdf/2112.06011.pdf)
@@ -89,6 +111,11 @@
   [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560766.pdf)
   [[code]](https://github.com/LiYingwei/Regional-Homogeneity)<br />
   Yingwei Li, Song Bai, Cihang Xie, Zhenyu Liao, Xiaohui Shen, Alan Yuille. **ECCV**, 2020.
+
+- ![](https://img.shields.io/badge/loss-538C51) Towards Transferable Targeted Attack.
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Li_Towards_Transferable_Targeted_Attack_CVPR_2020_paper.pdf)
+  [[code]](https://github.com/TiJoy/Towards-Transferable-Targeted-Attack)<br />
+  Maosen Li, Cheng Deng, Tengjiao Li, Junchi Yan, Xinbo Gao, Heng Huang. **CVPR**, 2020. 
 
 #### 2019
 - ![](https://img.shields.io/badge/data-4472C4) Improving Transferability of Adversarial Examples with Input Diversity.
