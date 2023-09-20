@@ -27,19 +27,28 @@
   [[code]](https://github.com/JHL-HUST/SVRE)<br />
   Yifeng Xiong, Jiadong Lin, Min Zhang, John E. Hopcroft, Kun He. **CVPR**, 2022. 
   
- - ![](https://img.shields.io/badge/loss-538C51) Cross-Modal Transferable Adversarial Attacks from Images to Videos.
+- ![](https://img.shields.io/badge/loss-538C51) Cross-Modal Transferable Adversarial Attacks from Images to Videos.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Cross-Modal_Transferable_Adversarial_Attacks_From_Images_to_Videos_CVPR_2022_paper.pdf)<br />
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
   
- - ![](https://img.shields.io/badge/loss-538C51) Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
+- ![](https://img.shields.io/badge/loss-538C51) Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Improving_Adversarial_Transferability_via_Neuron_Attribution-Based_Attacks_CVPR_2022_paper.pdf)
   [[code]](https://github.com/jpzhang1810/NAA)<br />
   Jianping Zhang, Weibin Wu, Jen-tse Huang, Yizhan Huang, Wenxuan Wang, Yuxin Su, Michael R. Lyu. **CVPR**, 2022. 
-  
-  - ![](https://img.shields.io/badge/data-4472C4) Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
+
+- ![](https://img.shields.io/badge/data-4472C4) Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
   [[pdf]](https://arxiv.org/pdf/2110.09075.pdf)
   [[code]](https://github.com/zhipeng-wei/TT)<br />
-  Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **AAAI**, 2022. 
+  Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **AAAI**, 2022.
+
+- ![](https://img.shields.io/badge/data-4472C4) Transferable Adversarial Attack based on Integrated Gradients.
+  [[pdf]](https://arxiv.org/pdf/2205.13152.pdf)<br />
+  Yi Huang, Adams Wai-Kin Kong. arXiv, 2022.
+
+- ![](https://img.shields.io/badge/optimization-D95E32) Making Adversarial Examples More Transferable and Indistinguishable.
+  [[pdf]](https://arxiv.org/pdf/2007.03838v2.pdf)
+  [[code]](https://github.com/278287847/AI-FGTM)<br />
+  Junhua Zou, Yexin Duan, Boyu Li, Wu Zhang, Yu Pan, Zhisong Pan. **AAAI**, 2022.
 
 #### 2021
 - ![](https://img.shields.io/badge/data-4472C4) Admix: Enhancing the Transferability of Adversarial Attacks.
@@ -54,26 +63,45 @@
   
 - ![](https://img.shields.io/badge/model-7030A0) Batch Normalization Increases Adversarial Vulnerability and Decreases Adversarial Transferability:  <br />A Non-Robust Feature Perspective.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Benz_Batch_Normalization_Increases_Adversarial_Vulnerability_and_Decreases_Adversarial_Transferability_A_ICCV_2021_paper.pdf) <br />
-  Philipp Benz, Chaoning Zhang, In So Kweon. **ICCV**, 2021. 
+  Philipp Benz, Chaoning Zhang, In So Kweon. **ICCV**, 2021.
+
+- ![](https://img.shields.io/badge/data-4472C4) Improving the Transferability of Adversarial Samples with Adversarial Transformations.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wu_Improving_the_Transferability_of_Adversarial_Samples_With_Adversarial_Transformations_CVPR_2021_paper.pdf)<br />
+  Weibin Wu, Yuxin Su, Michael R. Lyu, Irwin King. **CVPR**, 2021.
+
+- ![](https://img.shields.io/badge/optimization-D95E32) Enhancing the Transferability of Adversarial Attacks Through Variance Tuning.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2021/papers/Wang_Enhancing_the_Transferability_of_Adversarial_Attacks_Through_Variance_Tuning_CVPR_2021_paper.pdf)
+  [[code]](https://github.com/JHL-HUST/VT)<br />
+  Xiaosen Wang, Kun He. **CVPR**, 2021.
 
 #### 2020
-- ![](https://img.shields.io/badge/data-4472C4) Adversarial examples on segmentation models can be easy to transfer.
+- ![](https://img.shields.io/badge/data-4472C4) Adversarial Examples on Segmentation Models Can be Easy to Transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   [[code]](https://arxiv.org/pdf/2111.11368.pdf)
   - Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020.
 
+- ![](https://img.shields.io/badge/data-4472C4) Improving the Transferability of Adversarial Examples with Resized-Diverse-Inputs, Diversity-Ensemble and Region Fitting.
+  [[pdf]](https://arxiv.org/pdf/2112.06011.pdf)
+  [[code]](https://github.com/278287847/DEM)<br />
+  Junhua Zou, Zhisong Pan, Junyang Qiu, Xin Liu, Ting Rui, Wei Li. **ECCV**, 2020.
+
+- ![](https://img.shields.io/badge/data-4472C4) Regional Homogeneity: Towards Learning Transferable Universal Adversarial Perturbations Against Defenses.
+  [[pdf]](https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123560766.pdf)
+  [[code]](https://github.com/LiYingwei/Regional-Homogeneity)<br />
+  Yingwei Li, Song Bai, Cihang Xie, Zhenyu Liao, Xiaohui Shen, Alan Yuille. **ECCV**, 2020.
+
 #### 2019
-- ![](https://img.shields.io/badge/data-4472C4) Improving transferability of adversarial examples with input diversity.
+- ![](https://img.shields.io/badge/data-4472C4) Improving Transferability of Adversarial Examples with Input Diversity.
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Improving_Transferability_of_Adversarial_Examples_With_Input_Diversity_CVPR_2019_paper.pdf)
   [[code]](https://github.com/cihangxie/DI-2-FGSM)<br />
   Cihang Xie, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan L. Yuille. **CVPR**, 2019.
 
-- ![](https://img.shields.io/badge/data-4472C4) Evading defenses to transferable adversarial examples by translation-invariant attacks.
+- ![](https://img.shields.io/badge/data-4472C4) Evading Defenses to Transferable Adversarial Examples by Translation-Invariant Attacks.
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Evading_Defenses_to_Transferable_Adversarial_Examples_by_Translation-Invariant_Attacks_CVPR_2019_paper.pdf)
   [[code]](https://github.com/dongyp13/Translation-Invariant-Attacks)<br />
   Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu. **CVPR**, 2019.
 
-- ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/data-4472C4) Nesterov accelerated gradient and scale invariance for adversarial attacks.
+- ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/data-4472C4) Nesterov Accelerated Gradient and Scale Invariance for Adversarial Attacks.
   [[pdf]](https://arxiv.org/pdf/1908.06281.pdf)
   [[code]](https://github.com/JHL-HUST/SI-NI-FGSM)<br />
   Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. arxiv, 2019.
@@ -83,7 +111,7 @@
   [[pdf]](https://arxiv.org/pdf/1811.09020.pdf)<br />
   Muzammal Naseer, Salman H. Khan, Shafin Rahman, Fatih Porikli, arxiv, 2018.
 
-- ![](https://img.shields.io/badge/optimization-D95E32) Boosting adversarial attacks with momentum.
+- ![](https://img.shields.io/badge/optimization-D95E32) Boosting Adversarial Attacks with Momentum.
   [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf)
   [[code]](https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks)<br />
   Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li. **CVPR**, 2018.
