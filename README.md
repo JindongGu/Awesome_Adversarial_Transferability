@@ -60,12 +60,33 @@
 - ![](https://img.shields.io/badge/data-4472C4) Adversarial examples on segmentation models can be easy to transfer.
   [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
   [[code]](https://arxiv.org/pdf/2111.11368.pdf)
-  - Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020. 
+  - Jindong Gu, Hengshuang Zhao, Volker Tresp, Philip Torr. arXiv, 2020.
+
+#### 2019
+- ![](https://img.shields.io/badge/data-4472C4) Improving transferability of adversarial examples with input diversity.
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Improving_Transferability_of_Adversarial_Examples_With_Input_Diversity_CVPR_2019_paper.pdf)
+  [[code]](https://github.com/cihangxie/DI-2-FGSM)<br />
+  Cihang Xie, Zhishuai Zhang, Yuyin Zhou, Song Bai, Jianyu Wang, Zhou Ren, Alan L. Yuille. **CVPR**, 2019.
+
+- ![](https://img.shields.io/badge/data-4472C4) Evading defenses to transferable adversarial examples by translation-invariant attacks.
+  [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Dong_Evading_Defenses_to_Transferable_Adversarial_Examples_by_Translation-Invariant_Attacks_CVPR_2019_paper.pdf)
+  [[code]](https://github.com/dongyp13/Translation-Invariant-Attacks)<br />
+  Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu. **CVPR**, 2019.
+
+- ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/data-4472C4) Nesterov accelerated gradient and scale invariance for adversarial attacks.
+  [[pdf]](https://arxiv.org/pdf/1908.06281.pdf)
+  [[code]](https://github.com/JHL-HUST/SI-NI-FGSM)<br />
+  Jiadong Lin, Chuanbiao Song, Kun He, Liwei Wang, John E. Hopcroft. arxiv, 2019.
 
 #### 2018
 - ![](https://img.shields.io/badge/loss-538C51) Task-generalizable Adversarial Attack based on Perceptual Metric.
   [[pdf]](https://arxiv.org/pdf/1811.09020.pdf)<br />
-  Muzammal Naseer, Salman H. Khan, Shafin Rahman, Fatih Porikli, arxiv, 2018
+  Muzammal Naseer, Salman H. Khan, Shafin Rahman, Fatih Porikli, arxiv, 2018.
+
+- ![](https://img.shields.io/badge/optimization-D95E32) Boosting adversarial attacks with momentum.
+  [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Dong_Boosting_Adversarial_Attacks_CVPR_2018_paper.pdf)
+  [[code]](https://github.com/dongyp13/Non-Targeted-Adversarial-Attacks)<br />
+  Yinpeng Dong, Fangzhou Liao, Tianyu Pang, Hang Su, Jun Zhu, Xiaolin Hu, Jianguo Li. **CVPR**, 2018.
   
 #### 2015
 - ![](https://img.shields.io/badge/model-7030A0) Delving into Transferable Adversarial Examples and Black-box Attacks.
