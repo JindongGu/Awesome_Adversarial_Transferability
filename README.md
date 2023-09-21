@@ -12,6 +12,15 @@
 * Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)  ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
 ### Papers
 #### 2023
+- ![](https://img.shields.io/badge/loss-538C51) Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples.
+  [[pdf]](https://arxiv.org/pdf/2302.05086v3.pdf)
+  [[code]](https://github.com/qizhangli/morebayesian-attack)<br />
+  Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen. arXiv, 2023.
+
+- ![](https://img.shields.io/badge/generative-D94A70) Diffusion Models for Imperceptible and Transferable Adversarial Attack.
+  [[pdf]](https://arxiv.org/pdf/2305.08192)
+  [[code]](https://github.com/windvchen/diffattack)<br />
+  Jianqi Chen, Hao Chen, Keyan Chen, Yilan Zhang, Zhengxia Zou, Zhenwei Shi. arXiv, 2023.
   
 #### 2022
 - ![](https://img.shields.io/badge/data-4472C4) Improving the Transferability of Targeted Adversarial Examples through Object-Based Diverse Input.
@@ -73,7 +82,22 @@
 - ![](https://img.shields.io/badge/model-7030A0) On Improving Adversarial Transferability of Vision Transformers.
   [[pdf]](https://openreview.net/pdf?id=D6nH3719vZy)
   [[code]](https://github.com/Muzammal-Naseer/On-Improving-Adversarial-Transferability-of-Vision-Transformers)<br />
-  Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Fahad Shahbaz Khan, Fatih Porikli. **ICLR**, 2022. 
+  Muzammal Naseer, Kanchana Ranasinghe, Salman Khan, Fahad Shahbaz Khan, Fatih Porikli. **ICLR**, 2022.
+
+- ![](https://img.shields.io/badge/loss-538C51) LGV: Boosting Adversarial Example Transferability from Large Geometric Vicinity.
+  [[pdf]](https://arxiv.org/pdf/2207.13129v1.pdf)
+  [[code]](https://github.com/framartin/lgv-geometric-transferability)<br />
+  Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. **ECCV**, 2022.
+
+- ![](https://img.shields.io/badge/loss-538C51) Efficient and transferable adversarial examples from bayesian neural networks.
+  [[pdf]](https://proceedings.mlr.press/v180/gubri22a/gubri22a.pdf)
+  [[code]](https://github.com/framartin/transferable-bnn-adv-ex)<br />
+  Martin Gubri, Maxime Cordy, Mike Papadakis, Yves Le Traon, Koushik Sen. **UAI**, 2022.
+
+- ![](https://img.shields.io/badge/generative-D94A70) Boosting Transferability of Targeted Adversarial Examples via Hierarchical Generative Networks.
+  [[pdf]](https://arxiv.org/pdf/2107.01809)
+  [[code]](https://github.com/ShawnXYang/C-GSP)<br />
+  Xiao Yang, Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu. **ECCV**, 2022.
 
 #### 2021
 - ![](https://img.shields.io/badge/data-4472C4) Admix: Enhancing the Transferability of Adversarial Attacks.
@@ -165,6 +189,10 @@
   [[code]](https://github.com/qizhangli/linbp-attack)<br />
   Yiwen Guo, Qizhang Li, Hao Chen. **NIPS**, 2020.
 
+- ![](https://img.shields.io/badge/generative-D94A70) CAG: A Real-Time Low-Cost Enhanced-Robustness High-Transferability Content-Aware Adversarial Attack Generator.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/5990/5846)<br />
+  Huy Phan, Yi Xie, Siyu Liao, Jie Chen, Bo Yua. **AAAI**, 2020.
+
 #### 2019
 - ![](https://img.shields.io/badge/data-4472C4) Improving Transferability of Adversarial Examples with Input Diversity.
   [[pdf]](https://openaccess.thecvf.com/content_CVPR_2019/papers/Xie_Improving_Transferability_of_Adversarial_Examples_With_Input_Diversity_CVPR_2019_paper.pdf)
@@ -196,6 +224,15 @@
   [[code]](https://github.com/Shall-Ven/Activation-Attack)<br />
   Nathan Inkawhich, Wei Wen, Hai (Helen) Li, Yiran Chen. **CVPR**, 2019.
 
+- ![](https://img.shields.io/badge/generative-D94A70) Once a MAN: Towards Multi-Target Attack via Learning Multi-Target Adversarial Network Once.
+  [[pdf]](https://openaccess.thecvf.com/content_ICCV_2019/papers/Han_Once_a_MAN_Towards_Multi-Target_Attack_via_Learning_Multi-Target_Adversarial_ICCV_2019_paper.pdf)<br />
+  Jiangfan Han, Xiaoyi Dong, Ruimao Zhang, Dongdong Chen, Weiming Zhang, Nenghai Yu, Ping Luo, Xiaogang Wang. **ICCV**, 2019.
+
+- ![](https://img.shields.io/badge/generative-D94A70) Cross-Domain Transferability of Adversarial Perturbations.
+  [[pdf]](https://proceedings.neurips.cc/paper_files/paper/2019/file/99cd3843754d20ec3c5885d805db8a32-Paper.pdf)
+  [[code]](https://github.com/Muzammal-Naseer/Cross-domain-perturbations)<br />
+  Muhammad Muzammal Naseer, Salman H. Khan, Muhammad Haris Khan, Fahad Shahbaz Khan, Fatih Porikli. **NIPS**, 2019.
+
 #### 2018
 - ![](https://img.shields.io/badge/loss-538C51) Task-generalizable Adversarial Attack based on Perceptual Metric.
   [[pdf]](https://arxiv.org/pdf/1811.09020.pdf)<br />
@@ -215,16 +252,20 @@
   [[code]](https://github.com/LiangSiyuan21/Adversarial-Attacks-for-Image-and-Video-Object-Detection/tree/master/img_attack_with_attention)<br />
   Xingxing Wei, Siyuan Liang, Ning Chen, Xiaochun Cao. arxiv, 2018.
 
+- ![](https://img.shields.io/badge/generative-D94A70) Generative Adversarial Perturbations.
+  [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)
+  [[code]](https://github.com/OmidPoursaeed/Generative_Adversarial_Perturbations)<br />
+  Omid Poursaeed, Isay Katsman, Bicheng Gao, Serge Belongie. **CVPR**, 2018.
+
 #### 2017
 - ![](https://img.shields.io/badge/loss-538C51) LOTS about Attacking Deep Features.
   [[pdf]](https://arxiv.org/pdf/1611.06179)<br />
   Andras Rozsa, Manuel Günther, Terrance E. Boult. **IJCB**, 2017. 
-  
-#### 2015
+
 - ![](https://img.shields.io/badge/model-7030A0) Delving into Transferable Adversarial Examples and Black-box Attacks.
   [[pdf]](https://openreview.net/pdf?id=Sys6GJqxl)
   [[code]](https://github.com/sunblaze-ucb/transferability-advdnn-pub)<br />
-  Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song, **ICLR**, 2015
+  Yanpei Liu, Xinyun Chen, Chang Liu, Dawn Song, **ICLR**, 2017
 
 
 ### Contact
