@@ -21,6 +21,29 @@
   [[pdf]](https://arxiv.org/pdf/2305.08192)
   [[code]](https://github.com/windvchen/diffattack)<br />
   Jianqi Chen, Hao Chen, Keyan Chen, Yilan Zhang, Zhengxia Zou, Zhenwei Shi. arXiv, 2023.
+
+- ![](https://img.shields.io/badge/loss-538C51) An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_An_Adaptive_Model_Ensemble_Adversarial_Attack_for_Boosting_Adversarial_Transferability_ICCV_2023_paper.pdf)
+  [[code]](https://github.com/CHENBIN99/AdaEA)
+  Bin Chen, Jiali Yin, Shukai Chen, Bohao Chen, Ximeng Liu. **ICCV**, 2023.
+
+- ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/data-4472C4) T-SEA: Transfer-Based Self-Ensemble Attack on Object Detection.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_T-SEA_Transfer-Based_Self-Ensemble_Attack_on_Object_Detection_CVPR_2023_paper.pdf)
+  [[code]](https://github.com/VDIGPKU/TSEA)
+  Hao Huang, Ziyan Chen, Huanran Chen, Yongtao Wang, Kevin Zhang. **CVPR**, 2023.
+
+- ![](https://img.shields.io/badge/optimization-D95E32) Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Transferable_Adversarial_Attack_for_Both_Vision_Transformers_and_Convolutional_Networks_ICCV_2023_paper.pdf)
+  Wenshuo Ma, Yidong Li, Xiaofeng Jia, Wei Xu. **ICCV**, 2023.
+
+- ![](https://img.shields.io/badge/loss-538C51) LEA2: A Lightweight Ensemble Adversarial Attack via Non-overlapping Vulnerable Frequency Regions.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_LEA2_A_Lightweight_Ensemble_Adversarial_Attack_via_Non-overlapping_Vulnerable_Frequency_ICCV_2023_paper.pdf)
+  Yaguan Qian, Shuke He, Chenyu Zhao, Jiaqiang Sha, Wei Wang, Bin Wang. **ICCV**, 2023.
+
+- ![](https://img.shields.io/badge/optimization-D95E32) Boosting Adversarial Transferability via Gradient Relevance Attack.
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Boosting_Adversarial_Transferability_via_Gradient_Relevance_Attack_ICCV_2023_paper.pdf)
+  [[code]](https://github.com/RYC-98/GRA)
+  Hegui Zhu, Yuchen Ren, Xiaoyan Sui, Lianping Yang, Wuming Jiang. **ICCV**, 2023.
   
 #### 2022
 - ![](https://img.shields.io/badge/data-4472C4) Improving the Transferability of Targeted Adversarial Examples through Object-Based Diverse Input.
