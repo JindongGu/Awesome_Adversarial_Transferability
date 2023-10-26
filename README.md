@@ -1,6 +1,6 @@
 
 ### What is Adversarial Transferability?
-Adversarial Transferability refers to the ability of adversarial examples designed for one model to successfully deceive a different model
+Adversarial Transferability refers to the ability of adversarial examples designed for one model to successfully deceive a different model.
 
 ### Reference
 - This repo lists relevant papers summarized in our survey paper.
