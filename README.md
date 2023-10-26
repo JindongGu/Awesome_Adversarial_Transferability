@@ -1,15 +1,13 @@
 
 ### What is Adversarial Transferability?
-
-### Why Adversarial Transferability?
-
+Adversarial Transferability refers to the ability of adversarial examples designed for one model to successfully deceive a different model
 
 ### Reference
 - This repo lists relevant papers summarized in our survey paper.
-  [[pdf]](https://arxiv.org/pdf/2111.11368.pdf)
-  - Jindong Gu, Philip Torr (To edit)
+  [[pdf]](https://arxiv.org/submit/5198257)
+  - Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr
  
-* Abbreviation tag, e.g., ![](https://img.shields.io/badge/CLIP-CD6155?style=flat-square)  ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
+* Abbreviation tags, i.e., ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
 ### Papers
 #### 2023
 - ![](https://img.shields.io/badge/loss-538C51) Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples.
