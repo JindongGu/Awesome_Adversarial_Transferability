@@ -4,7 +4,17 @@ Adversarial Transferability refers to the ability of adversarial examples design
 
 ### Reference
 - This repo lists relevant papers summarized in our survey paper.
-  **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.**  *Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr*. Preprint 2023. [[pdf]](http://arxiv.org/abs/2310.17626)
+  **A Survey on Transferability of Adversarial Examples across Deep Neural Networks.**  *Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr*. Preprint 2023. [[pdf]](http://arxiv.org/abs/2310.17626)
+
+If you find our paper and repo helpful to your research, please cite the following paper:
+```latex
+@article{gu2023survey_atrans,
+  title={A Survey on Transferability of Adversarial Examples across Deep Neural Networks},
+  author={Gu, Jindong and Jia, Xiaojun and Pau de Jorge, and Yu, Wenqain and Liu, Xinwei and Ma, Avery and Xun, Yuan and Hu, Anjun and Khakzar, Ashkan and Li, Zhijiang and Cao, Xiaochun and Torr, Philip}
+  journal={arXiv preprint arXiv:2310.17626},
+  year={2023}
+}
+```
  
 * Abbreviation tags, i.e., ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
 ### Papers
