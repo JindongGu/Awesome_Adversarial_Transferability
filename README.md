@@ -6,20 +6,20 @@ Adversarial Transferability refers to the ability of adversarial examples design
 - This repo lists relevant papers summarized in our survey paper.
   
   **A Survey on Transferability of Adversarial Examples across Deep Neural Networks.**  *Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr*. Preprint 2023. [[pdf]](http://arxiv.org/abs/2310.17626)
-
-If you find our paper and repo helpful to your research, please cite the following paper:
-```latex
-@article{gu2023survey_atrans,
+  
+  If you find our paper and repo helpful to your research, please cite the following paper:
+  ```latex
+  @article{gu2023survey_atrans,
   title={A Survey on Transferability of Adversarial Examples across Deep Neural Networks},
   author={Gu, Jindong and Jia, Xiaojun and Pau de Jorge, and Yu, Wenqain and Liu, Xinwei and Ma, Avery and Xun, Yuan and Hu, Anjun and Khakzar, Ashkan and Li, Zhijiang and Cao, Xiaochun and Torr, Philip}
   journal={arXiv preprint arXiv:2310.17626},
   year={2023}
-}
-```
+  }
+  ```
  
 * Abbreviation tags, i.e., ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
   
-Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
+  Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
 ### Papers
 #### 2023
 - ![](https://img.shields.io/badge/loss-538C51) Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples.
