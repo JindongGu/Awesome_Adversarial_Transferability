@@ -4,8 +4,7 @@ Adversarial Transferability refers to the ability of adversarial examples design
 
 ### Reference
 - This repo lists relevant papers summarized in our survey paper.
-  [[pdf]](https://arxiv.org/submit/5198257)
-  - Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr
+  **A Systematic Survey of Prompt Engineering on Vision-Language Foundation Models.**  *Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr*. Preprint 2023. [[pdf]](http://arxiv.org/abs/2310.17626)
  
 * Abbreviation tags, i.e., ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
 ### Papers
