@@ -52,9 +52,15 @@ Adversarial Transferability refers to the ability of adversarial examples design
 
 - ![](https://img.shields.io/badge/optimization-D95E32) Boosting Adversarial Transferability via Gradient Relevance Attack.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Boosting_Adversarial_Transferability_via_Gradient_Relevance_Attack_ICCV_2023_paper.pdf)
-  [[code]](https://github.com/RYC-98/GRA)
+  [[code]](https://github.com/RYC-98/GRA)  
   Hegui Zhu, Yuchen Ren, Xiaoyan Sui, Lianping Yang, Wuming Jiang. **ICCV**, 2023.
-  
+
+
+- ![](https://img.shields.io/badge/generative-D94A70) Minimizing Maximum Model Discrepancy for Transferable Black-box Targeted Attacks.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Minimizing_Maximum_Model_Discrepancy_for_Transferable_Black-Box_Targeted_Attacks_CVPR_2023_paper.pdf)
+  [[code]](https://github.com/Asteriajojo/M3D)   
+Anqi Zhao, Tong Chu, Yahao Liu, Wen Li, Jingjing Li, Lixin Duan. **CVPR**, 2023.
+
 #### 2022
 - ![](https://img.shields.io/badge/data-4472C4) Improving the Transferability of Targeted Adversarial Examples through Object-Based Diverse Input.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Byun_Improving_the_Transferability_of_Targeted_Adversarial_Examples_Through_Object-Based_Diverse_CVPR_2022_paper.pdf)
@@ -131,6 +137,16 @@ Adversarial Transferability refers to the ability of adversarial examples design
   [[pdf]](https://arxiv.org/pdf/2107.01809)
   [[code]](https://github.com/ShawnXYang/C-GSP)<br />
   Xiao Yang, Yinpeng Dong, Tianyu Pang, Hang Su, Jun Zhu. **ECCV**, 2022.
+    
+- ![](https://img.shields.io/badge/generative-D94A70) Boosting black-box attack with partially transferred conditional adversarial distribution.
+  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Feng_Boosting_Black-Box_Attack_With_Partially_Transferred_Conditional_Adversarial_Distribution_CVPR_2022_paper.pdf)
+  [[code]](https://github.com/Kira0096/CGATTACK)  
+ Yan Feng, Baoyuan Wu, Yanbo Fan, Li Liu, Zhifeng Li, Shu-Tao Xia. **CVPR**, 2022.
+
+- ![](https://img.shields.io/badge/generative-D94A70) Adversarial Pixel Restoration as a Pretext Task for Transferable Perturbations.
+  [[pdf]](https://arxiv.org/pdf/2207.08803.pdf)
+  [[code]](https://github.com/HashmatShadab/APR)   
+Hashmat Shadab Malik, Shahina Kunhimon, Muzammal Naseer, Salman Khan Fahad Shahbaz Khan. **BMVC**, 2022.
 
 #### 2021
 - ![](https://img.shields.io/badge/data-4472C4) Admix: Enhancing the Transferability of Adversarial Attacks.
@@ -289,6 +305,10 @@ Adversarial Transferability refers to the ability of adversarial examples design
   [[pdf]](https://openaccess.thecvf.com/content_cvpr_2018/papers/Poursaeed_Generative_Adversarial_Perturbations_CVPR_2018_paper.pdf)
   [[code]](https://github.com/OmidPoursaeed/Generative_Adversarial_Perturbations)<br />
   Omid Poursaeed, Isay Katsman, Bicheng Gao, Serge Belongie. **CVPR**, 2018.
+
+- ![](https://img.shields.io/badge/generative-D94A70) Generating adversarial examples with adversarial networks.
+  [[pdf]](https://arxiv.org/pdf/1801.02610.pdf)  
+Chaowei Xiao, Bo Li, Jun-Yan Zhu, Warren He, Mingyan Liu, Dawn Song. **IJCAI**, 2018.
 
 #### 2017
 - ![](https://img.shields.io/badge/loss-538C51) LOTS about Attacking Deep Features.
