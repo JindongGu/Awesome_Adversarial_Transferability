@@ -18,7 +18,8 @@ If you find our paper and repo helpful to your research, please cite the followi
 ```
  
 * Abbreviation tags, i.e., ![](https://img.shields.io/badge/data-4472C4) ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) ![](https://img.shields.io/badge/generative-D94A70)
-  Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach
+  
+Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
 ### Papers
 #### 2023
 - ![](https://img.shields.io/badge/loss-538C51) Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples.
