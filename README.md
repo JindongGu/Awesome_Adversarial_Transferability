@@ -4,6 +4,7 @@ Adversarial Transferability refers to the ability of adversarial examples design
 
 ### Reference
 - This repo lists relevant papers summarized in our survey paper.
+  
   **A Survey on Transferability of Adversarial Examples across Deep Neural Networks.**  *Jindong Gu, Xiaojun Jia, Pau de Jorge, Wenqain Yu, Xinwei Liu, Avery Ma, Yuan Xun, Anjun Hu, Ashkan Khakzar, Zhijiang Li, Xiaochun Cao, Philip Torr*. Preprint 2023. [[pdf]](http://arxiv.org/abs/2310.17626)
 
 If you find our paper and repo helpful to your research, please cite the following paper:
