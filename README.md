@@ -150,7 +150,7 @@ Hashmat Shadab Malik, Shahina Kunhimon, Muzammal Naseer, Salman Khan Fahad Shahb
 
 - ![](https://img.shields.io/badge/optimization-D95E32) Natural Color Fool: Towards Boosting Black-box Unrestricted Attacks.
   [[pdf]](https://arxiv.org/abs/2210.02041)
-  [[code]](https://github.com/L-Group/Natural-Color-Fool)
+  [[code]](https://github.com/L-Group/Natural-Color-Fool)<br />
 Shengming Yuan, Qilong Zhang, Lianli Gao, Yaya Cheng, Jingkuan Song. **NIPS**, 2022.
 
 #### 2021
