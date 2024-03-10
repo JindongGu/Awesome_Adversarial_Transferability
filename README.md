@@ -148,6 +148,11 @@ Anqi Zhao, Tong Chu, Yahao Liu, Wen Li, Jingjing Li, Lixin Duan. **CVPR**, 2023.
   [[code]](https://github.com/HashmatShadab/APR)   
 Hashmat Shadab Malik, Shahina Kunhimon, Muzammal Naseer, Salman Khan Fahad Shahbaz Khan. **BMVC**, 2022.
 
+- ![](https://img.shields.io/badge/optimization-D95E32) Natural Color Fool: Towards Boosting Black-box Unrestricted Attacks.
+  [[pdf]](https://arxiv.org/abs/2210.02041)
+  [[code]](https://github.com/L-Group/Natural-Color-Fool)
+Shengming Yuan, Qilong Zhang, Lianli Gao, Yaya Cheng, Jingkuan Song. **NIPS**, 2022.
+
 #### 2021
 - ![](https://img.shields.io/badge/data-4472C4) Admix: Enhancing the Transferability of Adversarial Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2021/papers/Wang_Admix_Enhancing_the_Transferability_of_Adversarial_Attacks_ICCV_2021_paper.pdf)
