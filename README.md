@@ -22,10 +22,23 @@ Adversarial Transferability refers to the ability of adversarial examples design
   Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
 ### Papers
 #### 2023
+- ![](https://img.shields.io/badge/loss-538C51) FACL-Attack Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28470/28915)<br />
+  Hunmin Yang, Jongoh Jeong, Kuk-Jin Yoon. **AAAI**, 2023.
+  
+- ![](https://img.shields.io/badge/model-7030A0) AGS: Affordable and Generalizable Substitute Training for Transferable Adversarial Attack.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28365/28715)
+  [[code]](https://github.com/lwmming/AGS)<br />
+  Ruikui Wang, Yuanfang Guo, Yunhong Wang. **AAAI**, 2023.
+
+- ![](https://img.shields.io/badge/model-7030A0) Improving the Adversarial Transferability of Vision Transformers with Virtual Dense Connection.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28541/29055)<br />
+  Jianping Zhang, Yizhan Huang, Zhuoer Xu, Weibin Wu, Michael R. Lyu. **AAAI**, 2023.
+  
 - ![](https://img.shields.io/badge/loss-538C51) Making Substitute Models More Bayesian Can Enhance Transferability of Adversarial Examples.
   [[pdf]](https://arxiv.org/pdf/2302.05086v3.pdf)
   [[code]](https://github.com/qizhangli/morebayesian-attack)<br />
-  Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen. arXiv, 2023.
+  Qizhang Li, Yiwen Guo, Wangmeng Zuo, Hao Chen. **ICLR**, 2023.
 
 - ![](https://img.shields.io/badge/generative-D94A70) Diffusion Models for Imperceptible and Transferable Adversarial Attack.
   [[pdf]](https://arxiv.org/pdf/2305.08192)
