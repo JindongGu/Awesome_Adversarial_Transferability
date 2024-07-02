@@ -22,6 +22,11 @@ Adversarial Transferability refers to the ability of adversarial examples design
   Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
 ### Papers
 #### 2023
+- ![](https://img.shields.io/badge/model-7030A0) LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28430/28840)
+  [[code]](https://github.com/TrustAIoT/LRS)<br />
+  Tao Wu, Tie Luo, Donald C. Wunsch II. **AAAI**, 2023.
+  
 - ![](https://img.shields.io/badge/loss-538C51) FACL-Attack Frequency-Aware Contrastive Learning for Transferable Adversarial Attacks.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28470/28915)<br />
   Hunmin Yang, Jongoh Jeong, Kuk-Jin Yoon. **AAAI**, 2023.
