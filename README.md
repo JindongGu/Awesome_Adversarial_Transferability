@@ -22,6 +22,15 @@ Adversarial Transferability refers to the ability of adversarial examples design
   Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
 ### Papers
 #### 2023
+- ![](https://img.shields.io/badge/generative-D94A70) Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/28147/28296)
+  [[code]](https://github.com/kopper-xdu/Adv-Diffusion)<br />
+  Decheng Liu, Xijun Wang, Chunlei Peng, Nannan Wang, Ruimin Hu, Xinbo Gao. **AAAI**, 2023.
+  
+- ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/optimization-D95E32) Towards Transferable Adversarial Attacks with Centralized Perturbation.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/28427/28834)<br />
+  Shangbo Wu, Yu-an Tan, Yajie Wang, Ruinan Ma, Wencong Ma, Yuanzhang Li. **AAAI**, 2023.
+  
 - ![](https://img.shields.io/badge/model-7030A0) LRS: Enhancing Adversarial Transferability through Lipschitz Regularized Surrogate.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/28430/28840)
   [[code]](https://github.com/TrustAIoT/LRS)<br />
@@ -52,31 +61,31 @@ Adversarial Transferability refers to the ability of adversarial examples design
 
 - ![](https://img.shields.io/badge/loss-538C51) An Adaptive Model Ensemble Adversarial Attack for Boosting Adversarial Transferability.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Chen_An_Adaptive_Model_Ensemble_Adversarial_Attack_for_Boosting_Adversarial_Transferability_ICCV_2023_paper.pdf)
-  [[code]](https://github.com/CHENBIN99/AdaEA)
+  [[code]](https://github.com/CHENBIN99/AdaEA)<br />
   Bin Chen, Jiali Yin, Shukai Chen, Bohao Chen, Ximeng Liu. **ICCV**, 2023.
 
 - ![](https://img.shields.io/badge/model-7030A0) ![](https://img.shields.io/badge/data-4472C4) T-SEA: Transfer-Based Self-Ensemble Attack on Object Detection.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Huang_T-SEA_Transfer-Based_Self-Ensemble_Attack_on_Object_Detection_CVPR_2023_paper.pdf)
-  [[code]](https://github.com/VDIGPKU/TSEA)
+  [[code]](https://github.com/VDIGPKU/TSEA)<br />
   Hao Huang, Ziyan Chen, Huanran Chen, Yongtao Wang, Kevin Zhang. **CVPR**, 2023.
 
 - ![](https://img.shields.io/badge/optimization-D95E32) Transferable Adversarial Attack for Both Vision Transformers and Convolutional Networks via Momentum Integrated Gradients.
-  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Transferable_Adversarial_Attack_for_Both_Vision_Transformers_and_Convolutional_Networks_ICCV_2023_paper.pdf)
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Ma_Transferable_Adversarial_Attack_for_Both_Vision_Transformers_and_Convolutional_Networks_ICCV_2023_paper.pdf)<br />
   Wenshuo Ma, Yidong Li, Xiaofeng Jia, Wei Xu. **ICCV**, 2023.
 
 - ![](https://img.shields.io/badge/loss-538C51) LEA2: A Lightweight Ensemble Adversarial Attack via Non-overlapping Vulnerable Frequency Regions.
-  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_LEA2_A_Lightweight_Ensemble_Adversarial_Attack_via_Non-overlapping_Vulnerable_Frequency_ICCV_2023_paper.pdf)
+  [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Qian_LEA2_A_Lightweight_Ensemble_Adversarial_Attack_via_Non-overlapping_Vulnerable_Frequency_ICCV_2023_paper.pdf)<br />
   Yaguan Qian, Shuke He, Chenyu Zhao, Jiaqiang Sha, Wei Wang, Bin Wang. **ICCV**, 2023.
 
 - ![](https://img.shields.io/badge/optimization-D95E32) Boosting Adversarial Transferability via Gradient Relevance Attack.
   [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/Zhu_Boosting_Adversarial_Transferability_via_Gradient_Relevance_Attack_ICCV_2023_paper.pdf)
-  [[code]](https://github.com/RYC-98/GRA)  
+  [[code]](https://github.com/RYC-98/GRA)<br />  
   Hegui Zhu, Yuchen Ren, Xiaoyan Sui, Lianping Yang, Wuming Jiang. **ICCV**, 2023.
 
 
 - ![](https://img.shields.io/badge/generative-D94A70) Minimizing Maximum Model Discrepancy for Transferable Black-box Targeted Attacks.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2023/papers/Zhao_Minimizing_Maximum_Model_Discrepancy_for_Transferable_Black-Box_Targeted_Attacks_CVPR_2023_paper.pdf)
-  [[code]](https://github.com/Asteriajojo/M3D)   
+  [[code]](https://github.com/Asteriajojo/M3D)<br />   
 Anqi Zhao, Tong Chu, Yahao Liu, Wen Li, Jingjing Li, Lixin Duan. **CVPR**, 2023.
 
 #### 2022
@@ -98,11 +107,6 @@ Anqi Zhao, Tong Chu, Yahao Liu, Wen Li, Jingjing Li, Lixin Duan. **CVPR**, 2023.
 - ![](https://img.shields.io/badge/loss-538C51) Cross-Modal Transferable Adversarial Attacks from Images to Videos.
   [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Wei_Cross-Modal_Transferable_Adversarial_Attacks_From_Images_to_Videos_CVPR_2022_paper.pdf)<br />
   Zhipeng Wei, Jingjing Chen, Zuxuan Wu, Yu-Gang Jiang. **CVPR**, 2022. 
-  
-- ![](https://img.shields.io/badge/loss-538C51) Improving Adversarial Transferability via Neuron Attribution-Based Attacks.
-  [[pdf]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zhang_Improving_Adversarial_Transferability_via_Neuron_Attribution-Based_Attacks_CVPR_2022_paper.pdf)
-  [[code]](https://github.com/jpzhang1810/NAA)<br />
-  Jianping Zhang, Weibin Wu, Jen-tse Huang, Yizhan Huang, Wenxuan Wang, Yuxin Su, Michael R. Lyu. **CVPR**, 2022. 
 
 - ![](https://img.shields.io/badge/data-4472C4) Boosting the Transferability of Video Adversarial Examples via Temporal Translation.
   [[pdf]](https://arxiv.org/pdf/2110.09075.pdf)
