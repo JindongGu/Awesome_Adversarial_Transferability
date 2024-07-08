@@ -22,6 +22,11 @@ Adversarial Transferability refers to the ability of adversarial examples design
   Each paper will be marked with one or more tags, which mean the paper can be categorized into the corresponding category, e.g., optimization-based transferability-enhancing approach.
 ### Papers
 #### 2023
+- ![](https://img.shields.io/badge/loss-538C51) ![](https://img.shields.io/badge/data-4472C4) Transferable Adversarial Attacks for Object Detection Using Object-Aware Significant Feature Distortion.
+  [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/view/27920/27862)
+  [[code]]( https://github.com/wakuwu/OSFD)<br />
+  Xinlong Ding, Jiansheng Chen, Hongwei Yu, Yu Shang, Yining Qin, Huimin Ma. **AAAI**, 2023.
+  
 - ![](https://img.shields.io/badge/generative-D94A70) Adv-Diffusion: Imperceptible Adversarial Face Identity Attack via Latent Diffusion Model.
   [[pdf]](https://ojs.aaai.org/index.php/AAAI/article/download/28147/28296)
   [[code]](https://github.com/kopper-xdu/Adv-Diffusion)<br />
